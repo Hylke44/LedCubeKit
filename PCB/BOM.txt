@@ -1,0 +1,13 @@
+Omschrijving 					Voetprint 				Aantal
+
+Ledjes. De kleur mag je zelf bepalen zolang 	3mm ledjes zijn nodig omdat anders	64 + een paar reserve
+ alle ledjes maar hetzelfde zijn. 	 	 te compacte kubus te vol wordt. 	
+Frack ledcube printplaat 								1
+sn74ls164n shift register 			DIP14 					2
+100nF ceramic capacitor 			Wire leaded 				2
+BC547B transistor 				TO-92 					4
+4.7K ohm weerstand 				Wire leaded 				4
+330 ohm weerstand 				Wire leaded 				16
+15 pins female header 				100mil(2.54mm) pitch 			2
+Arduino nano 										1
+Behuizing 										1 
